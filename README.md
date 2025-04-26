@@ -1,2 +1,5 @@
 # Gitler
-This is shooter/UKTRACUM/Rofl
+Это шутер 2d, где надо убивать Миносов праймов из ULTRAKA.. ой, ULTAKILL.
+На z(ZOV, ZZZZ, ZOV) стрелять(камом)
+У тебя есть счетчик жизней и убийств.
+
